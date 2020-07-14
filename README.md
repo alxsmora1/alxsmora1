@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👨‍💻 Alexis Mora ~ @alxsmora1 
 
-<!--
-**alxsmora1/alxsmora1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Version: 2.5 years as a dev
 
-Here are some ideas to get you started:
+👋 Hi, I'm Alexis, a software engineer that works as a web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🚀 Code on PHP, Python, JS, CSS, HTML
+- 💘 Tools Symfony, Django, Ionic4, Vim, VSCode, Linux (Debian)
+- 🌱 I'm currently learning React and Bash/Shell
+- 💻 I'm currently interesting in Docker, CentOS and DevOps
+- 💬 Ask me about PHP, Vim, LAMP, LEMP
+- 📫 How to reach me: You may follow me on [Twitter](https://twitter/follow/alxsmora1) | [Dev.to](https://dev.to/alxsmora1)
