@@ -10,4 +10,4 @@
 - 🌱 I'm currently learning React and Bash/Shell
 - 💻 I'm currently interesting in Docker, CentOS and DevOps
 - 💬 Ask me about PHP, Vim, LAMP, LEMP
-- 📫 How to reach me: You may follow me on [Twitter](https://twitter/follow/alxsmora1) | [Dev.to](https://dev.to/alxsmora1)
+- 📫 How to reach me: You may follow me on [Twitter](https://twitter.com/alxsmora1) | [Dev.to](https://dev.to/alxsmora1)
