@@ -6,7 +6,7 @@
 
 #
 
-<!-- - Blog: [The Web Dev](https://thewebdevx.blogger.com) -->
+- Blog: WIP
 - Porffolio: [portfolio](https://alxsmora1.github.io/portfolio/)
 
 #
