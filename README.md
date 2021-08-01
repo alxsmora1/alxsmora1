@@ -1,21 +1,21 @@
 # 👨‍💻 Alexis Mora ~ @alxsmora1 
 
-## Version: 3.0 years as a dev
+## Version: 3.5 years as a dev
 
 👋 Hello there, I'm Alexis a software engineer that works as a Full Stack Web Developer. I have a blog where I talk about software development, don't forget to visit my portfolio to see my work.
 
 #
 
-- Blog: [The Web Dev](https://thewebdevx.blogger.com)
+- Blog: WIP
 - Porffolio: [portfolio](https://alxsmora1.github.io/portfolio/)
 
 #
 
-- 🚀 Code on PHP, Python, JS, CSS, HTML.
-- 💘 Tools Symfony, Django, ReactJS, Bootstrap, NeoVim, VSCode, Linux (Debian).
-- 🌱 I'm currently learning Bash/Shell and React Native.
+- 🚀 Code on JS, Python, PHP, CSS3, HTML5.
+- 💘 Angular, ReactJS, Symfony, Django, Bootstrap, NeoVim, VSCode, Linux.
+- 🌱 I'm currently learning Vue and Flask.
 - 💻 I'm currently interesting in Docker and CentOS.
-- 💬 Ask me about PHP, ReactJS, NeoVim, LAMP and  LEMP, I am happy to help.
+- 💬 Ask me about JS, PHP, ReactJS, NeoVim, LAMP and  LEMP, I am happy to help.
 - 📫 How to reach me: You may follow me on [Twitter](https://twitter.com/alxsmora1) | [Dev.to](https://dev.to/alxsmora1)
 
 
