@@ -6,7 +6,7 @@
 
 #
 
-- Blog: WIP
+- Blog: [Alexis Mora Blog](https://alexis-mora.netlify.app/)
 - Porffolio: [portfolio](https://alxsmora1.github.io/portfolio/)
 
 #
