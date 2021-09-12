@@ -6,12 +6,12 @@
 
 #
 
-- Blog: [Alexis Mora Blog](https://alexis-mora.netlify.app/)
-- Porffolio: [portfolio](https://alxsmora1.github.io/portfolio/)
+- 📝 I regularly write articles on [Alexis Mora Blog](https://alexis-mora.netlify.app/)
+- 👨‍💻 All of my projects are available at [Alexis Mora portfolio](https://alxsmora1.github.io/portfolio/)
 
 #
 
-- 🚀 Code on JS, Python, PHP, CSS3, HTML5.
+- 🚀 Code on JS, Typescript, Python, PHP, CSS3, HTML5.
 - 💘 Angular, ReactJS, Symfony, Django, Bootstrap, NeoVim, VSCode, Linux.
 - 🌱 I'm currently learning Vue and Flask.
 - 💻 I'm currently interesting in Docker and CentOS.
@@ -22,3 +22,6 @@
 #
 
 ![Alexis github stats](https://github-readme-stats.vercel.app/api?username=alxsmora1&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxsmora1&layout=compact&langs_count=10&theme=dark)](https://github.com/alxsmora1/github-readme-stats)
+
