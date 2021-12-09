@@ -6,7 +6,7 @@
 
 #
 
-- 📝 I regularly write articles on [Alexis Mora Blog](https://alexis-mora.netlify.app/)
+- 📝 I regularly write articles (spanish) on [Alexis Mora Blog](https://alexis-mora.dev/)
 - 👨‍💻 All of my projects are available at [Alexis Mora portfolio](https://alxsmora1.github.io/portfolio/)
 
 #
@@ -17,7 +17,6 @@
 - 💻 I'm currently interesting in Docker and CentOS.
 - 💬 Ask me about JS, PHP, ReactJS, NeoVim, LAMP and  LEMP, I am happy to help.
 - 📫 How to reach me: You may follow me on [Twitter](https://twitter.com/alxsmora1) | [Dev.to](https://dev.to/alxsmora1)
-
 
 #
 
