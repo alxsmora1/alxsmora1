@@ -1,12 +1,12 @@
 # 👨‍💻 Alexis Mora ~ @alxsmora1 
 
-## Version: 4.0 years as a DEV
+## Version: 4.5 years as a DEV
 
 👋 Hello there, I'm Alexis a software engineer that works as a Full Stack Web Developer. I have a blog where I talk about software development, don't forget to visit my portfolio to see my work.
 
 #
 
-- 📝 I regularly write articles (spanish) on [Alexis Mora Blog](https://alexis-mora.dev/)
+- 📝 I sometimes write articles (Spanish) on [Alexis Mora Blog](https://alexis-mora.dev/)
 - 👨‍💻 All of my projects are available at [Alexis Mora portfolio](https://alxsmora1.github.io/portfolio/)
 
 #
