@@ -13,7 +13,7 @@
 
 - 🚀 Code on JS, Typescript, Python, PHP, CSS3, HTML5.
 - 💘 Angular, ReactJS, Symfony, Django, Bootstrap, NeoVim, VSCode, Linux.
-- 🌱 I'm currently learning React Native and Flask.
+- 🌱 I'm currently learning React Native, Jenkins and Flask.
 - 💻 I'm currently interesting in WSL2, Docker, Debian.
 - 💬 Ask me about JS, PHP, ReactJS, NeoVim, LAMP and  LEMP, I am happy to help.
 - 📫 How to reach me: You may follow me on [Twitter](https://twitter.com/alxsmora1) | [Dev.to](https://dev.to/alxsmora1)
