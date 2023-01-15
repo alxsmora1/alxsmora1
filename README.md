@@ -20,7 +20,7 @@
 
 #
 
-![Alexis github stats](https://github-readme-stats.vercel.app/api?username=alxsmora1&show_icons=true&theme=dark)
+![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=alxsmora1&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxsmora1&layout=compact&langs_count=10&theme=dark)](https://github.com/alxsmora1/github-readme-stats)
 
