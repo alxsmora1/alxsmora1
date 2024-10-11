@@ -1,8 +1,8 @@
 # 👨‍💻 Alexis Mora ~ @alxsmora1 
 
-## Version: 5 years as a DEV
+## Version: 6 years of Dev Daily
 
-👋 Hello there, I'm Alexis a software engineer that works as a Full Stack Web Developer. I have a blog where I talk about software development, don't forget to visit my portfolio to see my work.
+👋 Hello there, I'm Alexis a software engineer that works as a Font-End developer. I have a blog where I talk about software development, don't forget to visit my portfolio to see my work.
 
 #
 
@@ -12,10 +12,10 @@
 #
 
 - 🚀 Code on JS, Typescript, Python, PHP, CSS3, HTML5.
-- 💘 Angular, ReactJS, Symfony, Django, Bootstrap, NeoVim, VSCode, Linux.
-- 🌱 I'm currently learning React Native, Jenkins and Flask.
-- 💻 I'm currently interesting in Portainer, Docker, Debian.
-- 💬 Ask me about JS, PHP, ReactJS, NeoVim, LAMP and  LEMP, I am happy to help.
+- 💘 Angular, React, Symfony, Django, Bootstrap, NeoVim, VSCode, Linux.
+- 🌱 I'm currently learning React Native, DevOps and Flask.
+- 💻 I'm currently interesting in Portainer, Docker, Raspberry Pi.
+- 💬 Ask me about JS, PHP, React, NeoVim, Front-End technologies, I am happy to help.
 - 📫 How to reach me: You may follow me on [Twitter](https://twitter.com/alxsmora1) | [Dev.to](https://dev.to/alxsmora1)
 
 #
