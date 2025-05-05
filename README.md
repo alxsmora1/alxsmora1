@@ -1,8 +1,8 @@
 # 👨‍💻 Alexis Mora ~ @alxsmora1 
 
-## Version: 6 years of Dev Daily
+## Version: 7.0
 
-👋 Hello there, I'm Alexis a software engineer that works as a Font-End developer. I have a blog where I talk about software development, don't forget to visit my portfolio to see my work.
+👋 Hello there, I'm Alexis a software engineer that works as a Font-End developer with 5+ years of experience. I write a blog where I talk about software development, don't forget to visit my portfolio to see my work.
 
 #
 
